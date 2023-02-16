@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "Farhanphp",
+			"path": "../../Farhanphp"
+		},
+		{
+			"name": "webdev",
+			"path": "../../../../Users/farha/.vscode/webdev"
+		},
+		{
+			"path": "D:/lab10"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Farhanphp",
+		"liveServer.settings.port": 5501
+	}
+}
